@@ -104,3 +104,6 @@ c:\users\leo\documents\visual studio 2015\Projects\SchoolAPI\SchoolAPI\bin\Syste
 c:\users\leo\documents\visual studio 2015\Projects\SchoolAPI\SchoolAPI\bin\System.Web.Cors.dll
 c:\users\leo\documents\visual studio 2015\Projects\SchoolAPI\SchoolAPI\bin\System.Web.Http.Cors.dll
 c:\users\leo\documents\visual studio 2015\Projects\SchoolAPI\SchoolAPI\bin\System.Web.Http.Cors.xml
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\SchoolAPI\SchoolAPI\bin\SchoolAPI.XML
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\SchoolAPI\SchoolAPI\bin\Swashbuckle.Core.dll
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\SchoolAPI\SchoolAPI\bin\WebActivatorEx.dll
